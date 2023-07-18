@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//zhouzhaoyuan.github.io/project-wangcai-website/static/css/main.b98cca59.css",
+    "main.js": "//zhouzhaoyuan.github.io/project-wangcai-website/static/js/main.600c60f4.js",
+    "index.html": "//zhouzhaoyuan.github.io/project-wangcai-website/index.html",
+    "main.b98cca59.css.map": "//zhouzhaoyuan.github.io/project-wangcai-website/static/css/main.b98cca59.css.map",
+    "main.600c60f4.js.map": "//zhouzhaoyuan.github.io/project-wangcai-website/static/js/main.600c60f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98cca59.css",
+    "static/js/main.600c60f4.js"
+  ]
+}
