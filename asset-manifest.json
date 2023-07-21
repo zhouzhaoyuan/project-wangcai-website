@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-wangcai-website/static/css/main.b98cca59.css",
+    "main.js": "/project-wangcai-website/static/js/main.ac07a509.js",
+    "index.html": "/project-wangcai-website/index.html",
+    "main.b98cca59.css.map": "/project-wangcai-website/static/css/main.b98cca59.css.map",
+    "main.ac07a509.js.map": "/project-wangcai-website/static/js/main.ac07a509.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98cca59.css",
+    "static/js/main.ac07a509.js"
+  ]
+}
